@@ -1,6 +1,6 @@
 # Ros-Cart job task (React Dev)
 
-Not participated yet, but wanna try anyway. They say it is 3h time olnly task. Yeay... for sure.
+Not participated yet, but wanna try anyway. They say it is 3h time olnly task. For sure...
 It took me a bit more time to finish...
 In other version I did it with node.js server for fun and practice. This version is react
 
